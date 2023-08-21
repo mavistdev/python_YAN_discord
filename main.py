@@ -3,10 +3,7 @@ import mavist
 import time
 
 startup = True
-getlink = ''
-wmlink = ''
-walink = ''
-wrlink = ''
+walink, wrlink, wmlink, getlink = ''
 
 while True:
 	if startup:
